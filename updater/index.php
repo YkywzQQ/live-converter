@@ -1,3 +1,3 @@
 [core]
 version=1.1
-file=http://localhost/live-converter-mvvm/api/updater/core.zip
+file=https://raw.githubusercontent.com/YkywzQQ/live-converter/refs/heads/api/updater/core.zip
